@@ -11,7 +11,8 @@ namespace Final_Yashika_Saini
 {
     using System;
     using System.Collections.Generic;
-    
+
+    //Category Class
     public partial class Category
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
